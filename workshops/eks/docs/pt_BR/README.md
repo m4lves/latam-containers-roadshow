@@ -845,7 +845,7 @@ GitOps, um termo cunhado pela [Weave](https://www.weave.works/), é uma forma de
 
 Neste módulo do workshop vamos configurar o [CD do Flux](https://fluxcd.io) em nosso cluster EKS e implementar um aplicativo de exemplo usando o Flux.
 
-1.  Faça o Fork do repositório do GitHub para sua conta do GitHub. Se você não tiver uma conta do GitHub, crie uma usando[esse link](https://github.com/).
+1.  Faça o Fork do repositório do GitHub para sua conta do GitHub. Se você não tiver uma conta do GitHub, crie uma usando[esse link](https://github.com/fluxcd/flux2/fork).
 
 <p align="center"> 
 <img src="../static/fork-github.png">
